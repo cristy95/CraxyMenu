@@ -1,5 +1,5 @@
 var siteloc = "http://localhost/CraxyMenu";
-var scriptloc = "/script/"
+var scriptloc = "/scripts/"
 
 function fetch_items_list()
 {
